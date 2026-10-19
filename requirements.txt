@@ -1,0 +1,8 @@
+ultralytics
+supervision
+motmetrics
+pandas
+opencv-python
+lap
+torch
+torchvision

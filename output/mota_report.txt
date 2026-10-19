@@ -1,0 +1,5 @@
+       num_frames      mota      motp  num_switches  num_false_positives  num_misses  num_objects      idf1
+MOT17        1050  0.532582  0.176899           181                 4519       17529        47557  0.624671
+
+MOTA = 0.5326
+Kết luận: ĐẠT

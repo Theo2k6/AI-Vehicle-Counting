@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Dữ liệu tải về (MOT17, video gốc nặng)
+data/
+*.pt
+# File rác của YOLO
+runs/
+bus.jpg
+
+# File kết quả nặng (video 454MB không up lên git được)
+output/output_counted.mp4
+
+# File trung gian
+pred_MOT17-04.txt
+output/*.mp4
